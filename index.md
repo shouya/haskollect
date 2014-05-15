@@ -28,6 +28,7 @@
 * [Category theory for Haskell programmers](http://geoffhulette.wordpress.com/2010/11/22/category-theory-for-haskell-programmers/)
 * [What does “coalgebra” mean in the context of programming?](http://stackoverflow.com/questions/16015020/what-does-coalgebra-mean-in-the-context-of-programming)
 * [Catamorphism](http://en.wikipedia.org/wiki/Catamorphism)
+* [I Used to Be an Haskeller Like You, Then I Took an Arrow in the Knee](http://blog.mno2.org/blog/2012/04/22/i-used-to-be-an-haskeller-like-you/)
 
 # Functional reactive programming
 
